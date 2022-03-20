@@ -1,0 +1,4 @@
+git init - inicia um repositorio
+git status - mostra o status
+git add "nome do arquivo" - add para mandar ao repositorio
+git add . - adiciona todos arquivos da pasta
