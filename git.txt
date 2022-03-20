@@ -2,3 +2,6 @@ git init - inicia um repositorio
 git status - mostra o status
 git add "nome do arquivo" - add para mandar ao repositorio
 git add . - adiciona todos arquivos da pasta
+git commit -m "" - descrição da versão
+git remote add origin (link do repositorio) - adiciona o local para onde será mandado os arquivos
+git push --set-upsteam origin master - envia os arquivos adicionados
