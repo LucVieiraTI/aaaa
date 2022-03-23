@@ -11,3 +11,12 @@ git branch - mostra as branchs
 git branch (nome) - cria uma branch
 git checkout (nome branch) - utiliza a branch
 git merge (nome branch) - trás o código da branch para outro
+
+Passos para usar o pull
+git pull (da branch principal)
+gerar uma nova branch a partir da principal
+adicionar novas funcionalidades
+git checkout na branch principal
+git pull
+merge da branch temporária com a branch principal
+git push da branch pincipal
